@@ -1,0 +1,146 @@
+BÀI THỰC HÀNH 5: XÂY DỰNG CHIẾN DỊCH TRUYỀN THÔNG TUYỂN SINH KHÓA HỌC PYTHON CƠ BẢN
+===========================================================================
+ 
+Thông tin khóa học (giữ nguyên, không thay đổi):
+- Đối tượng: Sinh viên năm nhất
+- Độ tuổi: 18-20
+- Thời lượng: 8 tuần
+- Mục tiêu: 100 lượt đăng ký tư vấn
+- Kênh: Facebook và TikTok
+ 
+ 
+1. SƠ ĐỒ CHUỖI PROMPT
+---------------------------------------------------------------------------
+ 
+   Thông tin khóa học (đầu vào gốc)
+              |
+              v
+   [Prompt 1] Phân tích chân dung khách hàng
+              |  -> Chân dung sinh viên năm nhất
+              v
+   [Prompt 2] Xác định thông điệp chính
+              |  -> 1 thông điệp + lý do
+              v
+   [Prompt 3] Lập lịch nội dung 7 ngày
+              |  -> Lịch đăng Facebook / TikTok
+              v
+   [Prompt 4] Viết 2 bài Facebook + 2 kịch bản TikTok
+              |  -> Nội dung hoàn chỉnh
+              v
+   [Prompt 5] Kiểm tra tính nhất quán
+              |
+              v
+        Báo cáo cuối cùng
+ 
+Các prompt (rút gọn):
+ 
+P1: "Bạn là chuyên gia marketing giáo dục. Khóa Python cơ bản, 8 tuần, dành
+cho sinh viên năm nhất 18-20 tuổi. Hãy phân tích chân dung khách hàng: đặc
+điểm, nhu cầu, nỗi lo, kênh hay dùng."
+ 
+P2: "Dựa trên chân dung ở trên, hãy đề xuất 1 thông điệp truyền thông chính và
+giải thích vì sao phù hợp."
+ 
+P3: "Dựa trên chân dung và thông điệp trên, lập lịch đăng 7 ngày trên Facebook
+và TikTok, mục tiêu 100 lượt đăng ký tư vấn."
+ 
+P4: "Dựa trên lịch trên, viết 2 bài Facebook và 2 kịch bản TikTok 30-45 giây,
+giữ đúng thông điệp chính."
+ 
+P5: "Kiểm tra toàn bộ nội dung trên: có thống nhất về khách hàng, thông điệp,
+thông tin khóa học không? Nêu chỗ chưa ổn và cách sửa."
+ 
+ 
+2. CHÂN DUNG KHÁCH HÀNG MỤC TIÊU (kết quả P1)
+---------------------------------------------------------------------------
+ 
+- Tên giả định: Minh, 19 tuổi, sinh viên năm nhất.
+- Đặc điểm: Mới vào đại học, ham học hỏi nhưng chưa có nền tảng lập trình.
+  Dùng TikTok để giải trí và Facebook để xem thông tin trường, group sinh viên.
+- Nhu cầu: Muốn học một kỹ năng "hot" để sau này dễ xin thực tập và có việc
+  làm.
+- Nỗi lo: Sợ code khó, sợ học không theo kịp, không biết bắt đầu từ đâu.
+- Kênh tiếp cận: Facebook và TikTok.
+ 
+ 
+3. THÔNG ĐIỆP TRUYỀN THÔNG CHÍNH (kết quả P2)
+---------------------------------------------------------------------------
+ 
+"Chưa biết gì về code? Chỉ 8 tuần, bắt đầu Python từ con số 0 cùng chúng
+mình!"
+ 
+Lý do: Thông điệp đánh vào nỗi lo "sợ khó, chưa có nền tảng" của Minh và nhắc
+đúng thời lượng 8 tuần.
+ 
+ 
+4. LỊCH ĐĂNG NỘI DUNG 7 NGÀY (kết quả P3)
+---------------------------------------------------------------------------
+ 
+Ngày 1 | TikTok            | Video ngắn: "Bạn có sợ code không?" gây tò mò
+Ngày 2 | Facebook          | Bài 1: Giới thiệu khóa Python cơ bản 8 tuần
+Ngày 3 | TikTok            | Kịch bản 1: Python dễ hơn bạn nghĩ
+Ngày 4 | Facebook          | Nỗi lo thường gặp của tân sinh viên, kèm giải đáp
+Ngày 5 | TikTok            | Kịch bản 2: Lộ trình 8 tuần cho người mới
+Ngày 6 | Facebook          | Bài 2: Học Python để có lợi thế khi xin thực tập
+Ngày 7 | Facebook + TikTok | Nhắc lại, kêu gọi đăng ký tư vấn
+ 
+ 
+5. HAI BÀI ĐĂNG FACEBOOK (kết quả P4)
+---------------------------------------------------------------------------
+ 
+BÀI 1 (Ngày 2):
+ 
+Chưa biết gì về code? Không sao cả!
+Khóa Python cơ bản dành riêng cho sinh viên năm nhất, học trong 8 tuần, bắt
+đầu từ con số 0.
+Bạn không cần có nền tảng, chỉ cần muốn học.
+Đăng ký tư vấn ngay để biết thêm chi tiết!
+#Python #SinhVienNamNhat #HocLapTrinh
+ 
+BÀI 2 (Ngày 6):
+ 
+Sinh viên năm nhất nên làm gì để có lợi thế sau này?
+Biết lập trình Python giúp bạn dễ tự tin hơn khi tìm thực tập. Khóa Python cơ
+bản 8 tuần sẽ cùng bạn đi từng bước, từ những dòng code đầu tiên.
+Inbox hoặc bấm đăng ký tư vấn để được hỗ trợ nhé!
+#Python #ThucTap #LapTrinhChoNguoiMoi
+ 
+ 
+6. HAI KỊCH BẢN TIKTOK (30-45 giây)
+---------------------------------------------------------------------------
+ 
+KỊCH BẢN 1: "Python dễ hơn bạn nghĩ" (khoảng 35 giây)
+- 0-5s: Bạn sinh viên ôm đầu trước màn hình code. Chữ hiện: "Code khó quá, bỏ
+  thôi?"
+- 5-15s: Voice: "Nhiều bạn sợ code vì nghĩ phải giỏi toán, giỏi máy tính.
+  Thực ra Python rất dễ đọc, gần như tiếng Anh."
+- 15-30s: Quay màn hình vài dòng code print("Xin chào") chạy ra kết quả.
+  Voice: "Chỉ 8 tuần, bạn bắt đầu Python từ con số 0."
+- 30-35s: Chữ: "Đăng ký tư vấn ngay!" + link ở bio.
+ 
+KỊCH BẢN 2: "Lộ trình 8 tuần cho người mới" (khoảng 40 giây)
+- 0-5s: Hỏi nhanh: "Sinh viên năm nhất muốn học code mà không biết bắt đầu
+  từ đâu?"
+- 5-20s: Chữ hiện từng bước: Tuần 1-2: làm quen Python -> Tuần 3-5: thực hành
+  cơ bản -> Tuần 6-8: làm bài tập nhỏ. Voice đọc theo.
+- 20-35s: "Khóa Python cơ bản chỉ 8 tuần, dành cho người mới bắt đầu, không
+  cần biết gì trước."
+- 35-40s: "Bấm link ở bio để đăng ký tư vấn nhé!"
+ 
+ 
+7. BÁO CÁO KIỂM TRA TÍNH NHẤT QUÁN (kết quả P5)
+---------------------------------------------------------------------------
+ 
+Tiêu chí                                              | Kết quả
+------------------------------------------------------|--------
+Đúng đối tượng (SV năm nhất 18-20)                    | Đạt
+Thông tin khóa học (Python cơ bản, 8 tuần) không đổi  | Đạt
+Thông điệp chính có mặt ở cả Facebook và TikTok       | Đạt
+Nội dung giải quyết đúng nỗi lo trong chân dung       | Đạt
+Có kêu gọi hành động (đăng ký tư vấn) cho mục tiêu    | Đạt
+Kịch bản TikTok dài 30-45 giây                        | Đạt
+ 
+Nhận xét: Toàn bộ chiến dịch thống nhất từ chân dung đến thông điệp và bài
+đăng. Chỗ nên cải thiện là bài Facebook 2 nhắc đến "thực tập" hơi xa so với
+thông điệp "bắt đầu từ con số 0", nên thêm một câu nhắc lại thông điệp chính.
+ 
